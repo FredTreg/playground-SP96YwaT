@@ -3,7 +3,6 @@
 This Java template lets you get started quickly with a simple one-page playground.
 
 ```java runnable
-
 public class Main {
 
     public static void main(String[] args) {
