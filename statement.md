@@ -6,9 +6,10 @@ This Java template lets you get started quickly with a simple one-page playgroun
 
 public class Main {
 
-public static void main(String[] args) {
-    String message = "Hello Beautiful World!";
-    System.out.println(message);
+    public static void main(String[] args) {
+        String message = "Hello Beautiful World!";
+        System.out.println(message);
+    }
 }
 ```
 
